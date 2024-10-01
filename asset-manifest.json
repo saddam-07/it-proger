@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/it-proger/static/css/main.e42a0ed7.css",
+    "main.js": "/it-proger/static/js/main.1a10a992.js",
+    "static/media/18220884_v1016-b-09.jpg": "/it-proger/static/media/18220884_v1016-b-09.df05ef49c7389425dc6e.jpg",
+    "static/media/jonas-morgner-F7u5fL11Lt0-unsplash 1.jpg": "/it-proger/static/media/jonas-morgner-F7u5fL11Lt0-unsplash 1.b7e079a74887e36fe7fa.jpg",
+    "static/media/Снимок.png": "/it-proger/static/media/Снимок.ccca7caa5163619ad712.png",
+    "static/media/slider.jpeg": "/it-proger/static/media/slider.3409832917cb8b8c2260.jpeg",
+    "static/media/s-2.jpg": "/it-proger/static/media/s-2.93d4e75c30a244709ab0.jpg",
+    "static/media/client.jpg": "/it-proger/static/media/client.3199c8bc27b5c368596e.jpg",
+    "index.html": "/it-proger/index.html",
+    "main.e42a0ed7.css.map": "/it-proger/static/css/main.e42a0ed7.css.map",
+    "main.1a10a992.js.map": "/it-proger/static/js/main.1a10a992.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e42a0ed7.css",
+    "static/js/main.1a10a992.js"
+  ]
+}
